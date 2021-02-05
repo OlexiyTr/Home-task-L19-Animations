@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transition_container">transitionContainer</string>
+    <string name="transition_image">transitionImage</string>
+    <string name="transition_title">transitionTitle</string>
+    <string name="transition_body">transitionBody</string>
+</resources>
